@@ -1,4 +1,4 @@
-package answers;
+package solutions;
 
 import java.util.stream.LongStream;
 
